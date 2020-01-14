@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38.uzd names array surnames array together", "38.uzd names array surnames array together\38.uzd names array surnames array together.csproj", "{82B8BB0A-6FC0-4FDE-8229-F6551C649D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B8BB0A-6FC0-4FDE-8229-F6551C649D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B8BB0A-6FC0-4FDE-8229-F6551C649D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B8BB0A-6FC0-4FDE-8229-F6551C649D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B8BB0A-6FC0-4FDE-8229-F6551C649D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AD85C09-ECF5-41D4-A407-281A73974AFD}
+	EndGlobalSection
+EndGlobal
